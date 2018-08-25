@@ -4,6 +4,7 @@ Manages track ratings between local iTunes and Google Play Music
 ## Requirements
 
 * Python 3.6 (I think? because it's my first-ish time with python)
+  * ConfigParser
 * A Google Music API: [gmusicapi](https://unofficial-google-music-api.readthedocs.io)
 * A passion for rating things. Including a Greasemonkey/Tampermonkey script to restore 1-5 star ratings in Google Music web client: [google-play-music-star-ratings](https://github.com/Velenir/google-play-music-star-ratings)
 * iTunes 11.1.3.8 (because that's what I currently have installed, and I don't want to get into iTunes library format specs just yet)
